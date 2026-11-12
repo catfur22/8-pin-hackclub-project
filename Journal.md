@@ -81,3 +81,6 @@ The PCB design and manufacturing files are prepared, but the physical device sti
 My next steps are to get the boards manufactured, assemble the components, program the ATtiny412, and test the measurement circuit with different resistor values.
 
 I also need to check the accuracy of the measurements and make any changes necessary if something does not work as expected.
+
+
+##Total Time: 8 Hrs 55 Min
