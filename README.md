@@ -11,3 +11,4 @@ I'm using an ATtiny412 microcontroller and designing the PCB in KiCad. The board
 I've finished the schematic and PCB layout and generated the manufacturing files. Next I need to get the board made, put everything together, program the microcontroller, and test it.
 
 I'll keep updating this repository as the project progresses.
+<img width="930" height="709" alt="image" src="https://github.com/user-attachments/assets/cd553679-e945-4b6d-bb58-b8cd101a3c9a" />
