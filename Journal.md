@@ -83,4 +83,4 @@ My next steps are to get the boards manufactured, assemble the components, progr
 I also need to check the accuracy of the measurements and make any changes necessary if something does not work as expected.
 
 
-##Total Time: 8 Hrs 55 Min
+## Total Time: 8 Hrs 55 Min
