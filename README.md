@@ -12,3 +12,4 @@ I've finished the schematic and PCB layout and generated the manufacturing files
 
 I'll keep updating this repository as the project progresses.
 <img width="930" height="709" alt="image" src="https://github.com/user-attachments/assets/cd553679-e945-4b6d-bb58-b8cd101a3c9a" />
+<img width="957" height="675" alt="Screenshot 2026-11-12 095731" src="https://github.com/user-attachments/assets/66d8330b-13e7-4b6f-8c8b-8476ed6d0f35" />
