@@ -1,0 +1,21 @@
+﻿Reference,Qty,Description,Manufacturer,Manufacturer Part Number,KiCad Footprint / Connection,Assembly,Notes,Unit Price (USD),Extended Price (USD),Website Supplier
+U1,1,"8-bit AVR microcontroller, ATtiny412, SOIC-8",Microchip,ATTINY412-SSNR,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,PCB-mounted,,$0.58 ,$0.58,https://www.digikey.com/en/products/detail/microchip-technology/ATTINY412-SSNR/8594943?s=N4IgTCBcDaIIIBUEEkByBNALARjAWgGUDUAlEAXQF8g
+C1,1,"	
+0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)",Walsin,0805B104K250CT,Capacitor_SMD:C_0805_2012Metric,PCB-mounted,Verify voltage/tolerance against final schematic,$0.11,$0.11,https://www.digikey.com/en/products/detail/walsin-technology-corporation/0805B104K250CT/9355063
+R1,1,"10 kΩ, 1%, 0805 resistor",YAGEO,RC0805FR-0710KL,Resistor_SMD:R_0805_2012Metric,PCB-mounted,,$0.10,$0.10,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535?s=N4IgTCBcDaIEoGEAMAOJBWAYnAtEg7AIxIDSAMiALoC%2BQA
+R2,1,"100 kΩ, 1%, 0805 resistor",YAGEO,RC0805FR-07100KL,Resistor_SMD:R_0805_2012Metric,PCB-mounted,,$0.10,$0.10,https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544?s=N4IgTCBcDaIEoGEAMAOJBWAYnAtEg7AIxJIDSAMiALoC%2BQA
+R3,1,"1 MΩ, 1%, 0805 resistor",YAGEO,AF0805FR-071ML,Resistor_SMD:R_0805_2012Metric,PCB-mounted,,$0.14,$0.14,https://www.digikey.com/en/products/detail/yageo/AF0805FR-071ML/5901272?s=N4IgTCBcDaIIIDEAMAOJBWBAlAtEg7AIwCyAMiALoC%2BQA
+R4,1,"1 kΩ, 1%, 0805 resistor",YAGEO,RC0805FR-071KL,Resistor_SMD:R_0805_2012Metric,PCB-mounted,,$0.10,$0.10,https://www.digikey.com/en/products/detail/yageo/RC0805FR-071KL/727444?s=N4IgTCBcDaIEoGEAMAOJBWAYnAtEg7AIwDSAMiALoC%2BQA
+"R5,R6",2,"5.1 kΩ, 1%, 0805 resistor",Bourns,CR0805-FX-5101ELF,Resistor_SMD:R_0805_2012Metric,PCB-mounted,USB-C CC pulldown,$0.10,$0.20,https://www.digikey.com/en/products/detail/bourns-inc/CR0805-FX-5101ELF/3784995?s=N4IgTCBcDaIMICUAMAOJBWAtAMQBqfQEYlCBRAGWxAF0BfIA
+J1,1,"1×2, 2.54 mm straight female socket",Same Sky,SSK02-FPH-254-A2,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,PCB-mounted,Test resistor input connector,$0.24,$0.24,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SSK02-FPH-254-A2/28772215
+J2,1,"1×4, 2.54 mm right-angle female socket",Sullins,PPTC041LGBN-RC,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal,PCB-mounted,LCD connection,$0.50,$0.50,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPTC041LGBN-RC/775898?s=N4IgTCBcDaIApwCoGEAMAWAjAGQOICEA5AWgCVkQBdAXyA
+J3,1,"1×3, 2.54 mm straight male header",Amphenol FCI,10129378-903001BLF,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,PCB-mounted,UPDI/programming connector,$0.27,$0.27,https://www.digikey.com/en/products/detail/amphenol-cs-fci/10129378-903001BLF/7915928?s=N4IgTCBcDaIIwAY5gJwGYDsAOAtChaCSAQgDIBiIAugL5A
+J4,1,"USB-C receptacle, power-only",GCT,USB4085-GF-A,Connector_USB:USB_C_Receptacle_GCT_USB4085,PCB-mounted,USB-C Power,$0.91,$0.91,https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859662?s=N4IgTCBcDaIKoGUBCAWADADgKwFoDiAYjgIIgC6AvkA
+S1,1,"2-pole, 4-position rotary switch",Alpha Taiwan,SR10010F-0204-20F0B-C7-N-0027,switch:SR10010F020420F0BC7N0027,PCB-mounted,Estimated tarriff of $1.76,$5.86,$5.86,https://www.mouser.com/en/ProductDetail/Alpha-Taiwan/SR10010F-0204-20F0B-C7-N-0027?qs=8%252Br4Hz5Xir%2Ffy%252Bqxa0GVpg%3D%3D
+LCD1,1,16×2 I²C LCD module,DFRobot,DFR0555,Not on PCB (external module),External / off-board,Connects to J2; Is for reading the outputs,$9.90,$9.90,https://www.digikey.com/en/products/detail/dfrobot/DFR0555/9356340?s=N4IgTCBcDaICIDEBKAGArBkBdAvkA
+,,,,,,,,,,
+PCB-mounted parts subtotal,,,,,,,,,$9.11,
+Complete device subtotal (includes external LCD),,,,,,,,,$19.01,
+,,,,,,,,,,
+Pricing note,"Enter current supplier unit prices in column I. Shipping, tax, PCB fabrication, and assembly are not included.",,,,,,,,,
+Verification note,"This BOM is based on the selected parts recorded during design. Verify all MPNs, footprints, switch terminal mapping, connector pin order, and current prices against manufacturer datasheets before ordering.",,,,,,,,,
